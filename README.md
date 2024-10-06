@@ -1,0 +1,2 @@
+# ddscontentstatic
+Static data content
